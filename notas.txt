@@ -1,0 +1,10 @@
+// Google Maps Api - Ir a servicios web -> Geocoding API
+https://developers.google.com/maps/
+// Ejemplo:
+https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=YOUR_API_KEY
+
+AIzaSyASPiaw4FAKInDRrhGA33Ei6FmS4-4YQ9s
+
+// Librerias node
+https://www.npmjs.com/package/axios
+https://www.npmjs.com/package/request
