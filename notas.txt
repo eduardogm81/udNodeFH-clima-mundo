@@ -5,6 +5,9 @@ https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Park
 
 AIzaSyASPiaw4FAKInDRrhGA33Ei6FmS4-4YQ9s
 
+// Open Weather Map
+https://openweathermap.org/
+
 // Librerias node
 https://www.npmjs.com/package/axios
 https://www.npmjs.com/package/request

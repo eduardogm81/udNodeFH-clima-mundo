@@ -1,6 +1,5 @@
 const axios = require('axios');
 
-
 const getLugarLatLng = async ( direccion )  => {
 
     let encodedUrl = encodeURI(direccion);
